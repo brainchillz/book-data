@@ -1365,10 +1365,10 @@ id,author,title,series,series_num,isbn,cover_id,ol_key
 1387,"Patterson, James",16th Seduction,WMC,16,9781444835762,13261830,/works/OL19356864W
 1388,"Patterson, James",17th Suspect,WMC,17,9781780895215,13174063,/works/OL19356870W
 1389,"Patterson, James",18th Abduction,WMC,18,9781780899329,13260497,/works/OL19700690W
-1390,"Patterson, James","19th Christmas, The",WMC,,9780316420273,13277081,/works/OL20143970W
+1390,"Patterson, James","19th Christmas, The",WMC,19,9780316420273,13277081,/works/OL20143970W
 1391,"Patterson, James","20th Victim, The",WMC,20,9781787461956,13277856,/works/OL20706344W
-1392,"Patterson, James",21st Birthday,WMC,,9781529125290,13316217,/works/OL24161953W
-1393,"Patterson, James",22 Seconds,WMC,,9780316499378,13318216,/works/OL25347855W
+1392,"Patterson, James",21st Birthday,WMC,21,9781529125290,13316217,/works/OL24161953W
+1393,"Patterson, James",22 Seconds,WMC,22,9780316499378,13318216,/works/OL25347855W
 1394,"Patterson, James",Along Came a Spider,Alex Cross,1,9782253076506,13321062,/works/OL167178W
 1395,"Patterson, James",Kiss the Girls,Alex Cross,2,9780002241274,13261789,/works/OL167171W
 1396,"Patterson, James",Jack and Jill,Alex Cross,3,9780446604802,13154523,/works/OL167185W
@@ -1819,3 +1819,4 @@ id,author,title,series,series_num,isbn,cover_id,ol_key
 1844,"Woods, Stuart",Worst Fears Realized,,,9780061355271,48036,/works/OL491221W
 1845,"Yancy, Rick","Fifth wave, The",,,9780399162411,14654084,/works/OL16820266W
 1846,"Koontz, Dean","Bad Weather Friend, The",,,9798885795890,14578530,/works/OL35221229W
+1847,"Brown, Sandra",The Alibi,,,9780446519809,8595708,/works/OL167331W
