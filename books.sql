@@ -1602,7 +1602,7 @@ INSERT INTO books (id, author, title, series, series_num, isbn, cover_id, ol_key
 (1608, 'Roberts, Nora', 'Sweet Revenge', NULL, NULL, '9781568955315', 11356377, '/works/OL111438W'),
 (1609, 'Roberts, Nora', 'Three Fates', NULL, NULL, '9780739424117', 11352391, '/works/OL111582W'),
 (1610, 'Roberts, Nora', 'Truly Madly Manhattan', NULL, NULL, '9780373218035', 12064971, '/works/OL111540W'),
-(1611, 'Rodgers, Nora', 'Undercurrents', NULL, NULL, '9782749939292', 11360387, '/works/OL19755924W'),
+(1611, 'Roberts, Nora', 'Undercurrents', NULL, NULL, '9782749939292', 11360387, '/works/OL19755924W'),
 (1612, 'Roberts, Nora', 'Where the Heart Is', NULL, NULL, '9780373285778', 7201894, '/works/OL15316765W'),
 (1613, 'Roberts, Nora', 'Windfall', NULL, NULL, '9780373285952', NULL, '/works/OL21728097W'),
 (1614, 'Roberts, Nora', 'With Open Arms', NULL, NULL, '9780373285044', 7885528, '/works/OL111487W'),
